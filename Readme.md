@@ -2,7 +2,7 @@
 just git clone the git
 
 deployed site here
-
+https://nagfx.github.io/twfb-portfolio-website/
 ##Frameworks used
 
 - [x] HTML
